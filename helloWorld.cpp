@@ -1,7 +1,6 @@
 #include <iostream>
 
-using std::cout, std::endl;
-
+using namespace std;
 
 
 int main()
